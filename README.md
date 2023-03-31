@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @matthewkarlson
-- 👀 I’m interested in Web3 and decentralised finance
+- 👀 I’m interested in Web3, decentralised finance and Machine Learning
 - 🌱 I’m currently learning Solidity, Python and Javascript
-- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me @matthew_karlson on twitter
 
 <!---
