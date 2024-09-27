@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthewkarlson
-- 👀 I’m interested in Web3, decentralised finance and Machine Learning
-- 🌱 I’m currently learning Solidity, Python and Javascript
-- 📫 How to reach me @matthew_karlson on twitter
+- 👀 I’m interested in Generative AI, decentralised finance and Machine Learning
+- 🌱 I’m currently learning Python and Javascript
+- 📫 How to reach me hello@mattkarlson.com via email
 - Check out my website mattkarlson.com
 <!---
 matthewkarlson/matthewkarlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
