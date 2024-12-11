@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewkarlson
 - 👀 I’m interested in Generative AI, decentralised finance and Machine Learning
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Go and Python
 - 📫 How to reach me hello@mattkarlson.com via email
 - Check out my [website](https://www.mattkarlson.com)
 <!---
