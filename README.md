@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewkarlson
 - 👀 I’m interested in Generative AI, decentralised finance and Machine Learning
-- 🌱 I’m currently building the future of web3 at EasyA Labs [Labs GH account](https://github.com/matt-easya)
+- 🌱 I’m currently building the future of web3 at EasyA Labs: [GH Account](https://github.com/matt-easya)
 - 📫 How to reach me hello@mattkarlson.com via email
 - Check out my [website](https://www.mattkarlson.com)
 <!---
