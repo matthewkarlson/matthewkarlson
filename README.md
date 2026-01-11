@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewkarlson
 - 👀 I’m interested in Generative AI, decentralised finance and Machine Learning
-- 🌱 I’m currently building the best homeservices software at [Housekeep](housekeep.com)
+- 🌱 I’m currently building the best homeservices software at [Housekeep](https://housekeep.com)
 - 📫 How to reach me hello@mattkarlson.com via email
 - Check out my [website](https://www.mattkarlson.com)
 <!---
